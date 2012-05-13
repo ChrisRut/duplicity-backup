@@ -29,7 +29,7 @@
 
 # Set config file (uncomment if you want to use a separate config file)
 # Its content override config below !
-#CONFIG="/some/path/to/config/file"
+#CONFIG="duplicity-backup.cnf"
 
 # AMAZON S3 INFORMATION
 # Comment out this lines if you're not using S3
